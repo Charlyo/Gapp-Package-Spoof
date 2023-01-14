@@ -8,7 +8,7 @@ android {
         applicationId "com.google.android.googlequicksearchbox"
         minSdkVersion 19
         targetSdkVersion 33
-        versionCode 301178541
+        versionCode 301223390
         versionName "14.2.9.26.arm64"
     }
 
