@@ -2,14 +2,14 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 
 android {
-    compileSdkVersion 32
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.google.android.googlequicksearchbox"
         minSdkVersion 19
-        targetSdkVersion 31
+        targetSdkVersion 33
         versionCode 301178541
-        versionName "12.48.23.23.arm64"
+        versionName "14.2.9.26.arm64"
     }
 
     buildTypes {
